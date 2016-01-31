@@ -2,7 +2,7 @@
 dismathportfolio-KaethrynViloria created by Classroom for GitHub
 
 #week 1
--We've had an introduction to DISMATH
+- We've had an introduction to DISMATH
 
 #week 2 
 -I've learned how important the truth table is for proving statements
