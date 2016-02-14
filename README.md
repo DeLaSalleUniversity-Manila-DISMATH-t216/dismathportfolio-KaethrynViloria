@@ -24,3 +24,11 @@ dismathportfolio-KaethrynViloria created by Classroom for GitHub
 - In addition to that, little by little I'm learning when to use direct or indirect proof
 - Proof by contraposition and contradiction are indirect methods of proof
 - I've learned about vacuous and trivial proof
+
+#week 5
+- I've learned about proof by equivalence
+- We had mathematical induction just like in our engalg2 class
+- We were introduced to recursive/ inductive definition
+- In addition to that, I learned about recursive algorithm, program correctness and hoare triple
+- I've learned something about power series 
+- Our last lesson for the week was about sets 
