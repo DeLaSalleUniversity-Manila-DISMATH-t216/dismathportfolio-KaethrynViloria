@@ -32,3 +32,11 @@ dismathportfolio-KaethrynViloria created by Classroom for GitHub
 - In addition to that, I learned about recursive algorithm, program correctness and hoare triple
 - I've learned something about power series 
 - Our last lesson for the week was about sets 
+
+#week 6
+- We discussed about functions
+- functions can also be referred to as mappings or transformations
+- I've learned the difference between range and codomain
+- one to one function --> no value in the range is  used by more than one value in the domain
+- onto function--> equal range and codomain 
+- bijection --> one-to-one and onto 
