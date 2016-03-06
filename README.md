@@ -40,3 +40,11 @@ dismathportfolio-KaethrynViloria created by Classroom for GitHub
 - one to one function --> no value in the range is  used by more than one value in the domain
 - onto function--> equal range and codomain 
 - bijection --> one-to-one and onto 
+
+#week 7
+- We started learning about algorithms
+- Algorithm for finding the maximum element
+- An algorithm must have a precondition and postcondition
+- I also learned what a pseudocode is
+- Properties of an algorithm: input, output, definiteness, correctness, finiteness
+- We also discussed about linear search algorithm and binary search algorithm 
