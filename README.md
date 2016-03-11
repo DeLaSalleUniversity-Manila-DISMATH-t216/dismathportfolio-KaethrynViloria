@@ -48,3 +48,10 @@ dismathportfolio-KaethrynViloria created by Classroom for GitHub
 - I also learned what a pseudocode is
 - Properties of an algorithm: input, output, definiteness, correctness, finiteness
 - We also discussed about linear search algorithm and binary search algorithm 
+
+#week 8
+- we discussed about the bubble sort algorithm 
+- I learned about the insertion sort algorithm 
+- I also learned about the greedy algorithm
+- for the discussions, I learned what each component of the algorithm performs (example: outer for loop in the insertion sort algoritm is responsible for the movement of elements) 
+
