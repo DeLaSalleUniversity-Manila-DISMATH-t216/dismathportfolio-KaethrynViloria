@@ -55,3 +55,10 @@ dismathportfolio-KaethrynViloria created by Classroom for GitHub
 - I also learned about the greedy algorithm
 - for the discussions, I learned what each component of the algorithm performs (example: outer for loop in the insertion sort algoritm is responsible for the movement of elements) 
 
+#week 9
+- We discussed about Big- O, big- omega and big- theta 
+- big-O is known as the upper bound while big-omega describes the lower bound of the function.
+- in addition to that, big-theta is for both upper and lower bound
+- We also discussed about the algorithm time complexity
+- I learned about division and modulo operator
+- I also learned about Caesar Cipher.
