@@ -56,6 +56,7 @@ dismathportfolio-KaethrynViloria created by Classroom for GitHub
 
 #week 9
 - We discussed about linear search algorithm and binary search algorithm 
+- Check the algorithms at: (docs/DISMATH quiz 2 reviewer.md)
 
 #week 10
 - we discussed about the bubble sort algorithm 
